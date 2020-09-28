@@ -3,7 +3,7 @@
 - Can set countdown time until next scrape. 
 - Loops until function is cancelled. 
 
-<b> Use Case: </b>
+<b> Use Case: </b><br>
 Check for products that are often out of stock without having to manually check the page. Perfect to stock up on pandemic supplies such as isopropyl alcohol and other disinfectants.  
 
 <b>How To Use:</b>
